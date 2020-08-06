@@ -1,0 +1,3 @@
+laraval、thinkPHP都有读写分离，集群的设置
+
+laraval、thinkPHP的集群都是基于随机分配来做的
